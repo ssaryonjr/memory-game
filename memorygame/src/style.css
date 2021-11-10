@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body {
+    background-color:rgba(44, 128, 44, 0.493);
+}
+
+.container {
+   width: 100%;
+   text-align: center;
+}
+
+img {
+    border: solid black 2px;
+    float: left;
+}
+.grid {
+    width: 428px;
+    height: 324px;
+    border: solid black 6px;
+    display: inline-block;
+    margin: 0 auto;
+}
+    
